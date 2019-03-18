@@ -1,0 +1,13 @@
+.body {
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+.cta {
+    background-color: brown;
+}
+.jumbotron-fluid{
+    height: 400px;
+}
+.carousel-inner > .carousel-item > img {
+    height:460px;
+    width: 236px;
+  }
