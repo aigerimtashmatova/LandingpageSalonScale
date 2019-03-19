@@ -2,8 +2,10 @@
     font-family: 'Quattrocento Sans', sans-serif;
 }
 .cta {
-    background-color: brown;
+    background-color: #59091E;
+    border-radius: 5px;
 }
+
 .jumbotron-fluid{
     height: 400px;
 }
