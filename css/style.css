@@ -68,7 +68,11 @@
   border-radius: 5px;
   font-size: 22px;
   text-transform: none;
-
+}
+.cta-outline {
+  font-size: 16px;
+  text-transform: none;
+}
 .icon-color {
   color: #D6A96B;
 }
@@ -78,15 +82,4 @@
 }
 .white-space{
   height: 100px;
-}
-.container-bg {
-  position: relative;
-
-
-}
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
