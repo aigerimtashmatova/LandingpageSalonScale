@@ -5,6 +5,6 @@ var typed = new Typed(".typed", {
   typeSpeed: 200,
   backSpeed: 100,
   smartBackspace: true,
-  backDelay: 200,
-  startDelay: 200, 
+  backDelay: 400,
+  startDelay: 400,
 });
