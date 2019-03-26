@@ -59,11 +59,9 @@
   background-repeat: no-repeat;
 }
 
-.cta-secondary {
+.cta-gold {
   background-color:#D6A96B;
-  border-radius: 5px;
-  font-size: 22px;
-  text-transform: none;
+  font-size: 16px;
 }
 .cta-outline {
   font-size: 16px;
