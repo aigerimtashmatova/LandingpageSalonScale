@@ -5002,7 +5002,7 @@ a.btn:not([href]):not([tabindex]):hover {
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15); }
 
 .btn-secondary {
-  background-color: #aa66cc !important;
+  background-color: #59091E !important;
   color: #fff; }
   .btn-secondary:hover {
     background-color: #b579d2;
