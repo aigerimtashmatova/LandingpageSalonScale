@@ -75,12 +75,8 @@
 .font-color{
   color: #B3B6B9
 }
- 
+
 .active-cyan-2 input[type=text]:focus:not([readonly]) {
 border-bottom: 1px solid #4dd0e1;
 box-shadow: 0 1px 0 0 #4dd0e1;
-}
-.card {
-  width: 10px;
-
 }
