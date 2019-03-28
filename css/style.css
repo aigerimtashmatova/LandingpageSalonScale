@@ -51,12 +51,14 @@
 
 .polygon {
   /* The image used */
-  background: url("img/polygon.jpg");
+  background-image: url('../img/polygon.jpg');
   /* Full height */
   height: 600px;
+  width: 100%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .cta-gold {
