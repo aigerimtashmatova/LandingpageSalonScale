@@ -62,6 +62,8 @@
 .cta-gold {
   background-color:#D6A96B;
   font-size: 16px;
+  border-radius: 5px;
+  text-transform: none;
 }
 .cta-outline {
   font-size: 16px;
